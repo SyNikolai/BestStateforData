@@ -7,10 +7,9 @@ who possess the required know-how to deal with the challenges of large databases
 Among the world leades in the field of DATA, the United States, have been recognised as a top destination for any aspiring individual who
 want to start building their career in this industry.
 
-
-What better way to showcase the importance of EDA an essential part of the data analytics proccess, than to make use of it during the most important part of the job hunting proccess. 
-
-What is EDA? Exploratory Data Analysis is an essential part of a multistep proccess when dealin
+In this project, using exploratory data analysis, datasets containing meaningful features concerning salaries in the I.T. industry of the U.S. will be
+used in tandem with cost of living indices as well as tax rates on income per state, in order to formulate a confident answer on which is the ideal state
+for a Data related career. 
 
 # Table of contents
 
