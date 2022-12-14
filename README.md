@@ -1,19 +1,19 @@
 # Which is the best U.S. state for building a career in the growing field of Data?
 
-Working with data has been a cornerstore of every successful organization for a long time already. Breakthrough changes in computational
-power and the evergrowing data flow that feed the productivity of our modern society, however keep emphasizing the need for  talented individuals
-who possess the required know-how to deal with the challenges of large databases.
+Working with data has been a cornerstore of every successful organization for the past decades. Breakthrough changes in computational
+power and the evergrowing data flow that feed the productivity of our modern society, however, keep emphasizing the need for  talented individuals
+who possess the required skillset when dealing with the challenges of large databases.
 
-Among the world leades in the field of DATA, the United States, have been recognised as a top destination for any aspiring individual who
+Among the world leades in the field of Data, the United States, have been recognised as a top destination for any aspiring individual who
 want to start building their career in this industry.
 
 In this project, using exploratory data analysis, datasets containing meaningful features concerning salaries in the I.T. industry of the U.S. will be
-used in tandem with cost of living indices as well as tax rates on income per state, in order to formulate a confident answer on which is the ideal state
+used, in tandem with cost of living indices as well as tax rates on income per state. Goal of the project is to come up with a confident answer on the ideal state
 for a Data related career. 
 
 # Table of contents
 
-- [Introduction]
+- [Introduction](#introduction)
   - [DataSets](#datasets)
     - `Salary Data`
     - `Cost Indices`   
@@ -31,8 +31,6 @@ for a Data related career.
 - [License](#license)
 
 # Introduction
-
-[(Back to top)](#table-of-contents)
 
  Introduction about the following analysis.
 
