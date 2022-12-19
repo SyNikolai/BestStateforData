@@ -7,17 +7,10 @@ who possess the required skillset when dealing with the challenges of large data
 Among the world leades in the field of Data, the United States, have been recognised as a top destination for any aspiring individual who
 want to start building their career in this industry.
 
-In this project, using exploratory data analysis, datasets containing meaningful features concerning salaries in the I.T. industry of the U.S. will be
-used, in tandem with cost of living indices as well as tax rates on income per state. Goal of the project is to come up with a confident answer on the ideal state
-for a Data related career. 
-
 # Table of contents
 
 - [Introduction](#introduction)
   - [DataSets](#datasets)
-    - `Salary Data`
-    - `Cost Indices`   
-    - `Effective Tax Rates`   
   - [Data Cleaning](#data-cleaning)
   - [Analysis](#analysis)
     - `Graph1`
@@ -32,21 +25,17 @@ for a Data related career.
 
 # Introduction
 
- Introduction about the following analysis.
+In this project, using exploratory data analysis, datasets containing meaningful features concerning salaries in the I.T. industry of the U.S. will be
+used, in tandem with cost of living indices as well as tax rates on income per state. Goal of the project is to come up with a confident answer on the ideal state
+for a Data related career. 
 
 ### DataSets
 
-- `Salary Data`
+The fist of the datasets that will be considered during the following analysis, contains valuable insights in terms of job listings in online job markets, such as Glassdoor (datamined during the summer of 2020).
 
-  Salary data description
+The second dataset, is a collection of various indices (timeframe 2022) that will help in determing the overall cost of living per U.S. state.
 
-- `Cost Indices`
-
-  Indices data description
-
-- `Effective Tax Rates` 
-
-  Tax data description
+Finally, a table containing the current (2022) effective tax rate on income per U.S. state is taken into account.
 
 ### Data Cleaning
 
@@ -73,12 +62,13 @@ for a Data related career.
  
 # Contributing
 
-Contributors of the project.
+Here is a list of this projects collaborators:
+ - #### [klapano](https://github.com/klapano)
+ - #### [akotsonis](https://github.com/akotsonis)
 
 # License
 
 [(Back to top)](#table-of-contents)
 
-
-The MIT License (MIT) 2017 
+The MIT License (MIT) 
 
