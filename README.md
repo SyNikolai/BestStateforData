@@ -11,15 +11,7 @@ want to start building their career in this industry.
 
 - [Introduction](#introduction)
   - [DataSets](#datasets)
-  - [Data Cleaning](#data-cleaning)
   - [Analysis](#analysis)
-    - `Graph1`
-    - `Graph2`
-    - `Graph3`
-    - `Graph4`
-    - `Graph5`
-    - `Graph6`
-- [Final Recommendation](#final-recommendation)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -37,32 +29,14 @@ The second dataset, is a collection of various indices (timeframe 2022) that wil
 
 Finally, a table containing the current (2022) effective tax rate on income per U.S. state is taken into account.
 
-### Data Cleaning
+### Analysis.
 
-  Brief overview of the data cleaning required on the data.
+  In terms of analysis, after the original data have been transformed to the appropriate form, we used pandas grouping method in order to obtain meaningful insights
+  for our queries, such as calculating the average of starting salaries across the US for the specified timeframe of the dataset. In order to communicate better the results from our analysis, appropriate graphs were produced (found in the executed EDA notebook).
 
-### Analysis
-
- - `Graph1`
-
- - `Graph2`
-
- - `Graph3`
-
- - `Graph4`
-
- - `Graph5`
-
- - `Graph6`
-
-
-# Final Recommendation
- 
- Results of the analysis.
- 
 # Contributing
 
-Here is a list of this projects collaborators:
+Here is a list of this project's contributors:
  - #### [klapano](https://github.com/klapano)
  - #### [akotsonis](https://github.com/akotsonis)
 
