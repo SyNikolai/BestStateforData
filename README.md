@@ -10,8 +10,8 @@ want to start building their career in this industry.
 # Table of contents
 
 - [Introduction](#introduction)
-  - [DataSets](#datasets)
-  - [Analysis](#analysis)
+- [DataSets](#datasets)
+- [Analysis](#analysis)
 - [Contributors](#contributors)
 - [License](#license)
 
