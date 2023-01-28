@@ -21,7 +21,7 @@ In this project, using exploratory data analysis, datasets containing meaningful
 used, in tandem with cost of living indices as well as tax rates on income per state. Goal of the project is to come up with a confident answer on the ideal state
 for a Data related career. 
 
-### DataSets
+# DataSets
 
 The fist of the datasets that will be considered during the following analysis, contains valuable insights in terms of job listings in online job markets, such as Glassdoor (datamined during the summer of 2020).
 
@@ -29,10 +29,9 @@ The second dataset, is a collection of various indices (timeframe 2022) that wil
 
 Finally, a table containing the current (2022) effective tax rate on income per U.S. state is taken into account.
 
-### Analysis.
+# Analysis
 
-  In terms of analysis, after the original data have been transformed to the appropriate form, we used pandas grouping method in order to obtain meaningful insights
-  for our queries, such as calculating the average of starting salaries across the US for the specified timeframe of the dataset. In order to communicate better the results from our analysis, appropriate graphs were produced (found in the executed EDA notebook).
+In terms of analysis, after the original data have been transformed to the appropriate form, we used pandas grouping method in order to obtain meaningful insights for our queries, such as calculating the average of starting salaries across the US for the specified timeframe of the dataset. In order to communicate better the results from our analysis, appropriate graphs were produced (found in the executed EDA notebook).
 
 # Contributing
 
